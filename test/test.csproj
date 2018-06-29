@@ -34,17 +34,54 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="minimumAbsoluteDifference.cs" />
-    <Compile Include="maximumAbsoluteDifference.cs" />
-    <Compile Include="AbstractClass.cs" />
-    <Compile Include="LinkedListNodes.cs" />
-    <Compile Include="StacksQueues.cs" />
-    <Compile Include="BubbleSort.cs" />
-    <Compile Include="Generics.cs" />
-    <Compile Include="BinarySearchTrees.cs" />
-    <Compile Include="BSTLevelOrderTraversal.cs" />
-    <Compile Include="RegexExample.cs" />
-    <Compile Include="RunningTimeComplexity.cs" />
+    <Compile Include="30DaysOfCoding\Day29:BitwiseAnd.cs" />
+    <Compile Include="30DaysOfCoding\Day28:RegexPattern.cs" />
+    <Compile Include="30DaysOfCoding\Day26:NestedLogic.cs" />
+    <Compile Include="30DaysOfCoding\Day25:RunningTimeComplexity.cs" />
+    <Compile Include="30DaysOfCoding\Day24:MoreLinkedLists.cs" />
+    <Compile Include="30DaysOfCoding\Day23:BSTLevelOrderTraversal.cs" />
+    <Compile Include="30DaysOfCoding\Day22:BinarySearchTrees.cs" />
+    <Compile Include="30DaysOfCoding\Day21:Generics.cs" />
+    <Compile Include="30DaysOfCoding\Day20:BubbleSort.cs" />
+    <Compile Include="30DaysOfCoding\Day19:Interfaces.cs" />
+    <Compile Include="30DaysOfCoding\Day18:StacksQueues.cs" />
+    <Compile Include="30DaysOfCoding\Day17:MoreExceptions.cs" />
+    <Compile Include="30DaysOfCoding\Day16:Exceptions.cs" />
+    <Compile Include="30DaysOfCoding\Day14:Scope.cs" />
+    <Compile Include="30DaysOfCoding\Day15:LinkedListNodes.cs" />
+    <Compile Include="30DaysOfCoding\Day13:AbstractClass.cs" />
+    <Compile Include="30DaysOfCoding\Day12:Inheritance.cs" />
+    <Compile Include="30DaysOfCoding\Day11:Arrays2D.cs" />
+    <Compile Include="30DaysOfCoding\Day10:BinaryNumbers.cs" />
+    <Compile Include="30DaysOfCoding\Day9:Recursion.cs" />
+    <Compile Include="30DaysOfCoding\Day8:DictionariesMaps.cs" />
+    <Compile Include="30DaysOfCoding\Day7:Arrays.cs" />
+    <Compile Include="30DaysOfCoding\Day6:LetsReview.cs" />
+    <Compile Include="30DaysOfCoding\Day5:Loops.cs" />
+    <Compile Include="30DaysOfCoding\Day4:ClassVsInstance.cs" />
+    <Compile Include="30DaysOfCoding\Day3:ConditionalStatements.cs" />
+    <Compile Include="30DaysOfCoding\Day2:Operators.cs" />
+    <Compile Include="30DaysOfCoding\Day1:DataTypes.cs" />
+    <Compile Include="Warmup\TimeConversion.cs" />
+    <Compile Include="Warmup\BirthdayCakeCandles.cs" />
+    <Compile Include="Warmup\MiniMaxSum.cs" />
+    <Compile Include="Warmup\StringsMakingAnagrams.cs" />
+    <Compile Include="Warmup\Staircase.cs" />
+    <Compile Include="Warmup\PlusMinus.cs" />
+    <Compile Include="Warmup\AVeryBigSum.cs" />
+    <Compile Include="Warmup\CompareTriplets.cs" />
+    <Compile Include="Warmup\SimpleArraySum.cs" />
+    <Compile Include="Warmup\MarcsCakewalk.cs" />
+    <Compile Include="Warmup\MaxAbsoluteDifference.cs" />
+    <Compile Include="Warmup\MinAbsoluteDifference.cs" />
+    <Compile Include="CrackingTheCodingInterview\ArraysLeftRotation.cs" />
+    <Compile Include="Warmup\GradingStudents.cs" />
+    <Compile Include="CrackingTheCodingInterview\HashTablesRansomNote.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="30DaysOfCoding\" />
+    <Folder Include="Warmup\" />
+    <Folder Include="CrackingTheCodingInterview\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
