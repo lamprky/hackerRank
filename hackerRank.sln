@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{881E3B51-8EA8-40E7-9C4D-ED5560CF27FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hacherRank", "test\hacherRank.csproj", "{881E3B51-8EA8-40E7-9C4D-ED5560CF27FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
